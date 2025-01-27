@@ -19,7 +19,7 @@
 	},
 	"devDependencies": {
 		"@wordpress/stylelint-config": "^22.7.0",
-		"stylelint": "^14.10.0"
+		"stylelint": "^16.14.0"
 	},
 	"scripts": {
 		"lint:css": "stylelint **/*.css -i .gitignore",
